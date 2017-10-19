@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+@import url('https://cdnjs.cloudflare.com/ajax/libs/bulma/0.2.3/css/bulma.min.css');
+
+.image {
+	margin: 0 auto;
+}
+
+.container {
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+.child{
+	width: 33.3%;
+	padding: 20px 0;
+	border: solid 1px;
+}
+
+.img-link {
+	display: block;
+	text-align: center;
+	padding-bottom: 10px 
+}
