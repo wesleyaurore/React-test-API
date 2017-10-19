@@ -21,8 +21,6 @@ body {
 @media only screen and (max-width: 768px) {
 	.child{
 		width: 100%;
-		padding: 20px 0;
-		border: solid 1px;
 	}
 }
 .img-link {
